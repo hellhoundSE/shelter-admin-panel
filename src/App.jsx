@@ -4,7 +4,7 @@ import Login from './features/login/Login';
 import './App.css';
 
 function App() {
-  return <Login />;
+  return <Login />
 }
 
 export default App;
